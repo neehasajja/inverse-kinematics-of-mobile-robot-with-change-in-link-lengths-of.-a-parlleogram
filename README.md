@@ -1,0 +1,1 @@
+# inverse-kinematics-of-mobile-robot-with-change-in-link-lengths-of.-a-parlleogram
